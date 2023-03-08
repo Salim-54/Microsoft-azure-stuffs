@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/489e8da0-4698-4952-b9c4-bc968bb5ff5e/resourceGroups/tetsdev/providers/Microsoft.Web/sites/node-express-test",
+    "appService.deploySubpath": "."
+}
